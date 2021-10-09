@@ -5,6 +5,8 @@ The Registration Data Access Protocol (RDAP) defines a bootstrapping process in
 [bootstrapping information published by IANA](https://data.iana.org/rdap/) and using it to send HTTP redirects to RDAP
 queries. Clients utilizing a bootstrap server will not need to conduct their own bootstrapping.
 
+Please see notes.md if you are having problems building this project.
+
 ## Versioning, Building, and Runtime Requirements
 
 Any version containing the word `SNAPSHOT` is a development version. Versions are:
